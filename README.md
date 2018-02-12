@@ -2,7 +2,6 @@
 利用Ansible部署kubernetes集群
 # 利用Ansible部署kubernetes集群
 
-![docker](./pics/docker.jpg) ![kube](./pics/kube.jpg) ![ansible](./pics/ansible.jpg)
 
 本系列文档致力于提供快速部署高可用`k8s`集群的工具，并且也努力成为`k8s`实践、使用的参考书；基于二进制方式部署和利用`ansible-playbook`实现自动化：既提供一键安装脚本，也可以分步执行安装各个组件，同时讲解每一步主要参数配置和注意事项。
 
@@ -55,7 +54,3 @@
 Copyright 2017 gjmzj (jmgaozz@163.com)
 
 Apache License 2.0，详情见 [LICENSE](LICENSE) 文件。
-
-如果觉得这份文档对你有帮助，请支付宝扫描下方的二维码进行捐赠，谢谢！
-
-![donate](./pics/alipay.png) 
